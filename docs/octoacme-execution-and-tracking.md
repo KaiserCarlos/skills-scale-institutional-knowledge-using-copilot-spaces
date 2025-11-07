@@ -6,6 +6,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
+  - UX designers present design reviews and gather feedback
+  - Tech Lead participates in architecture discussions and technical design reviews
 - Demo/Review at the end of each sprint or milestone
 
 ## Workflows
@@ -38,3 +40,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] UX designs/prototypes reviewed and linked
+- [ ] Tech Lead sign-off for architecture on large changes
+- [ ] Release Manager assigned for current release
